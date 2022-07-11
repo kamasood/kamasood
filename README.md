@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 :office: Hack Reactor Grad, looking for opportunities!
 
-🌱  Constantly learning in JavaScript + Python + Web Development + Data Science
+🌱  Constantly learning in JavaScript + Web Development + Data Science
 
 📫  Let's connect!  
 
