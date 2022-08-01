@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🌱  Hack Reactor
 
-:round_pushpin: Bainbridge Island, WA (Seattle Metro)
+:round_pushpin: Bainbridge Island, WA
 
 :smile: Pronouns: he/him/his
 
