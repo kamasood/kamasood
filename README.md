@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kamasood/)](https://www.linkedin.com/in/kamasood/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kamran.p.masood@gmail.com)](mailto:kamran.p.masood@gmail.com)
 
-🔭 JavaScript + Web Development + Data Science
+🔭 Web Applications + Data Science
 
 🌱  Hack Reactor
 
